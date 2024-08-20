@@ -1,0 +1,1 @@
+PRINT REPLICATE ('0', 10)
